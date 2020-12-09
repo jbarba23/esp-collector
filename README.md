@@ -8,7 +8,7 @@ from a Host. Since most of the metadata collected comes from DBA_HIST and ASH Vi
 the system where it runs must have a valid Oracle Diagnostics Pack License.
 
 Steps
-~~~~~
+
 1. Connect to a Host as oracle. 
 
 2. Unzip esp_collect-master.zip and navigate to esp_collect-master directory.
@@ -23,7 +23,7 @@ Steps
    (i.e. escp_output.zip)
 
 Notes
-~~~~~
+
 1. Ignore possible errors like: 
 
    "SP2-0310: unable to open file "--sql/..."
