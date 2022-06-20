@@ -10,3 +10,5 @@ Added Date Range support
 esp_v2205.zip
 Added Statspack support
 
+esp_v2206.zip
+Bug fixed for STATS$database_instance
