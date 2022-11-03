@@ -12,3 +12,6 @@ Added Statspack support
 
 esp_v2206.zip
 Bug fixed for STATS$database_instance
+
+esp_v2211.zip
+statspack bugs fixed. Exit cleanly when statspack not installed.
