@@ -15,3 +15,6 @@ Bug fixed for STATS$database_instance
 
 esp_v2211.zip
 statspack bugs fixed. Exit cleanly when statspack not installed.
+
+esp_v2305.zip
+Support for Multitenant. Run from root container to bring all CDB metadata. Run from PDB to bring only PDB metadata.
